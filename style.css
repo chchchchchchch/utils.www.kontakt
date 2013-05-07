@@ -1,0 +1,40 @@
+body {
+
+   background-color: #DEDEDE;
+   font-size: 12;
+
+}
+
+p,input,textarea {
+
+  width: 500px;
+ 
+}
+
+input {
+
+  margin: -10px 0px 20px 0px;
+
+
+}
+
+textarea {
+  
+  height: 300px;
+  margin: -10px 0px 0px 0px;
+
+}
+
+p {
+
+  padding: 0px 10px 0px 4px;
+
+}
+
+pre {
+
+   font-size: 8;
+   margin: 20px 0px 30px 0px;
+
+}
+
